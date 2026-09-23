@@ -1,0 +1,13 @@
+# Compiled Object files and Executables
+*.o
+app1-add
+app1-get
+app2-get
+app2-insert
+app3-get
+app3-insert-delete
+app4-mixed
+
+# Editor settings
+.vscode/
+.DS_Store
